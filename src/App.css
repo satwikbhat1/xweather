@@ -2,13 +2,13 @@
   text-align: center;
 }
 
-.weather-card {
+.weather-cards {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-p {
+.weather-card {
   border: 1px solid black;
   padding: 30px;
   margin: 20px;
